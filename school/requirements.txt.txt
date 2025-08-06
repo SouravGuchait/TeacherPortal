@@ -1,0 +1,4 @@
+Python 3.13.5
+Django 4.2
+Django REST Framework
+PostgreSQL
